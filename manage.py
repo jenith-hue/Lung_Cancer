@@ -1,5 +1,5 @@
 import os
-import sy
+import sys
 
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'sairam_hackathon.settings')
